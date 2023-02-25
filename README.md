@@ -20,10 +20,8 @@ Here are some highlights about my life journey:
 <br />
 <a href="https://twitter.com/Terry_Djony">
   <img align="left" alt="Terry Djony | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+</a>&nbsp;
 <a href="https://www.linkedin.com/in/terry-djony-tech-entrepreneur/">
   <img align="left" alt="Terry Djony | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br />
-<br />
+</a>&nbsp;
 <img align="left" alt="visit number" width="64px" src="https://visitor-badge.glitch.me/badge?page_id=terryds" />
