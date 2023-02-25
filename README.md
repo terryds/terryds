@@ -1,4 +1,4 @@
-### hi, i'm terry djony
+### Welcome to Terry Djony's readme
 
 <a href="https://twitter.com/Terry_Djony">
   <img align="left" alt="Terry Djony | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
