@@ -11,9 +11,7 @@ Here are some highlights about my life journey:
 - got into ycombinator at age 21
 - got into Global Shapers by WEF in 2021
 - chatbot SaaS becomes profitable and self-sustaining, yet failed to become the fast-growing potential unicorn
-- pivoted to my second company, the first finance operations platform for money movements in SEA ( https://arbofinance.com )
-
-**...updating**
+- currently exploring new ideas and validating
 
 
 
