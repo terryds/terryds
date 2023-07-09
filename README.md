@@ -10,14 +10,5 @@ built my first company, a chatbot agency (https://chatbiz.id), during college ye
 dropped out of college to pursue tech entrepreneurship full-time
 - got into YCombinator Batch W21 at age 21
 - got into Global Shapers by WEF in 2021
-- while still running chatbot agency, i'm also exploring new ideas to work with exciting AI technology
-
-
-<br />
-<a href="https://twitter.com/Terry_Djony">
-  <img align="left" alt="Terry Djony | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/terry-djony-tech-entrepreneur/">
-  <img align="left" alt="Terry Djony | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>&nbsp;
-<img align="left" alt="visit number" width="64px" src="https://visitor-badge.glitch.me/badge?page_id=terryds" />
+- built some products: Orderdulu.com (Storefronts & Order Management for WhatsApp-based business), and Arbofinance (Webhook for bank data in Southeast Asia), eventually shut them down.
+- start an indie-maker thing for fun: AIPlaceholder (AI-powered alternative for JSONPlaceholder), and QuickGPT (Windows client for GPT-4)
