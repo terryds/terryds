@@ -1,4 +1,4 @@
-### Welcome to My Page!
+### Hello, I'm Terry
   
 Hi, I'm Terry Djony, from Indonesia.  
 
