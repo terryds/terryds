@@ -3,7 +3,7 @@
 Hi, I'm Terry Djony, from Indonesia.  
 
 Here are some highlights about my life journey: 
-- born in 1998. grew up in Lampung (small city in Indonesia)
+- born in 1998. grew up in Lampung, Indonesia
 - self-taught engineering at age 14 by reading books and browsing the internet pages, published some open-source developer tools
 - moved to Bandung for university study (at Bandung Institute of Technology)
 built my first company, a chatbot agency (https://chatbiz.id), during college year 3, profitable from day one
