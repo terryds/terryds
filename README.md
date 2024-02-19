@@ -11,4 +11,5 @@ dropped out of college to pursue tech entrepreneurship full-time
 - got into YCombinator Batch W21 at age 21
 - got into Global Shapers by WEF in 2021
 - built some products: Orderdulu.com (Storefronts & Order Management for WhatsApp-based business), and Arbofinance (Webhook for bank data in Southeast Asia), eventually shut them down.
-- start an indie-maker thing for fun: AIPlaceholder (AI-powered alternative for JSONPlaceholder), and QuickGPT (Windows client for GPT-4)
+- start building open source projects for fun: AIPlaceholder (AI-powered alternative for JSONPlaceholder), and QuickGPT (Windows client for GPT-4)
+- Currently building AI Customer Support tools (Firstsupport.ai) in my company (Chatbiz)
