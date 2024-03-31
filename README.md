@@ -10,6 +10,6 @@ I've built some products & currently exploring about AI in customer support usec
   https://chatbiz.id
   Serving millions of chats per month automating business process flows on WhatsApp across various industries (telco, FMCG, hospital, and more!)
 
-Personal projects:
+Personal products:
 - AI Placeholder: AI-Powered Dummy Data API for testing & prototyping
   https://aiplaceholder.terrydjony.com
